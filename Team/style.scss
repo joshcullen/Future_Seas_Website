@@ -1,0 +1,26 @@
+/*-- scss:defaults --*/
+  
+  
+/*-- scss:rules --*/
+  
+  .container{
+    width: clamp(400px, 50vw, 800px);
+  }
+  
+  .img-fluid {
+    max-width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.figure {
+  text-align: center;
+  font-weight: 400;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}

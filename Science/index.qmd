@@ -1,0 +1,31 @@
+---
+title: ""
+---
+
+# Climate and Fisheries {.underline}
+
+## 2023
+
+Evaluating robustness of harvest control rules to climate-driven variability in Pacific sardine recruitment (Wildermuth et al., Canadian Journal of Fisheries and Aquatic Sciences, 2023) [PDF](Papers/Wildermuth_CJAFS_2023.pdf) [press release](https://www.fisheries.noaa.gov/news/scientists-explore-how-sardine-populations-and-fisheries-harvest-control-rules-may)
+
+Catch as catch can: markets, availability, and fishery closures drive distinct responses among the U.S. West Coast coastal pelagic species fleet segments (Quezada et al., Canadian Journal of Fisheries and Aquatic Sciences, 2023) [PDF](Papers/Quezada_CJAFS_2023.pdf)
+
+Projecting climate change impacts from physics to fisheries: A view from three California Current fisheries (Smith et al., Progress in Oceanography, 2023) [PDF](Papers/Smith_PiO_2023.pdf)
+
+## 2021
+
+Projected shifts in 21st century sardine distribution and catch in the California Current (Fiechter et al., Frontiers in Marine Science, 2021) [Link](https://doi.org/10.3389/fmars.2021.685241)
+
+A case study in connecting fisheries management challenges with models and analysis to support ecosystem-based management in the California Current Ecosystem (Tommasi et al., Frontiers in Marine Science, 2021) [Link](https://doi.org/10.3389/fmars.2021.624161)
+
+Management Strategy Evaluation: Allowing the light on the hill to illuminate more than one species (Kaplan et al., Frontiers in Marine Science, 2021) [PDF](https://doi.org/10.3389/fmars.2021.624355)
+
+The potential impact of a shifting Pacific sardine distribution on U.S. West Coast landings (Smith et al., Fisheries Oceanography, 2021) [PDF](Papers/Smith_FO_2021.pdf) [Research Highlight](https://www.fisheries.noaa.gov/feature-story/pacific-sardine-landings-may-shift-north-ocean-warms-new-projections-show)
+
+Comparing dynamic and static time-area closures for bycatch mitigation: a management strategy evaluation of a swordfish fishery (Smith et al., Frontiers in Marine Science, 2021) [Link](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.630607/full)
+
+Changes to the structure and function of an albacore fishery reveal shifting social-ecological realities for Pacific Northwest fishermen (Frawley et al., Fish and Fisheries, 2021) [PDF](Papers/Frawley_FF_2021.pdf) [Research Highlight](https://caseagrant.ucsd.edu/blogs/reconsidering-that-can-of-tuna-albacore-helps-sustain-diverse-fisheries-livelihoods-on-the-us)
+
+## 2020
+
+Lost opportunity: Quantifying the dynamic economic impact of time-area fishery closures (Smith et al., Journal of Applied Ecology, 2020) [PDF](Papers/Smith_JAE_2020.pdf)

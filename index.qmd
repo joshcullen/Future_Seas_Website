@@ -1,0 +1,28 @@
+---
+title: "Future Seas"
+---
+
+Future Seas is a collaborative, interdisciplinary effort to explore potential impacts of climate change on U.S. west coast fisheries and to evaluate strategies for managing those impacts.
+
+<center>Learn more:</center>
+
+::: {.column width=33%}
+**Fisheries**
+
+We are focused on the swordfish, albacore tuna, and coastal pelagic fisheries off the U.S. west coast, each of which involves a unique set of ecological and socioeconomic concerns.
+:::
+
+::: {.column width=33%}
+**Science**
+
+Dynamical, statistical, and conceptual models are being combined in a framework to project physical, ecological, and socioeconomic change and to evaluate uncertainty in the models.
+:::
+
+::: {.column width=33%}
+**Our Team**
+
+We are climate scientists, oceanographers, ecologists, economists, and social scientists working closely with fishers and fishery managers.
+:::
+
+
+<center>Future Seas is funded by the NOAA Climate Program Office’s Climate and Fisheries Adaptation (CAFA) program and the NOAA Fisheries Office of Science and Technology.</center>

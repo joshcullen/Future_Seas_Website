@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Future Seas"
+  site-url: https://future-seas.com
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**We Are Hiring** - [Postdoctoral Scholar Position in Fisheries Science and Management Strategy Evaluation](https://future-seas.com/wp-content/uploads/2024/07/FSIII_ad_mse_July2024.pdf){style='color:white'}"
+    type: danger
+    position: below-navbar
+  navbar:
+    left:
+      - href: fisheries.qmd
+        text: Fisheries
+      - href: Science/index.qmd
+        text: Science
+      - href: Team/index.qmd
+        text: Team
+  page-footer:
+    left: |
+      &copy; 2024 Future Seas
+    right: |
+      This page is built with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)
+
+format:
+  html:
+    theme: [lumen, style.scss]
+    toc: true
