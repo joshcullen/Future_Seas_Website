@@ -2,6 +2,9 @@
 title: ""
 toc: false
 lightbox: true
+format: 
+  html:
+    page-layout: full
 ---
 
 ## Research Team

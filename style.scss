@@ -24,3 +24,18 @@
   gap: 10px;
   grid-auto-rows: minmax(100px, auto);
 }
+
+#fishImg {
+  max-width: 200px;
+  height: auto;
+  text-align: center;
+  font-weight: 400;
+}
+
+.border {
+  border-radius: 10%;
+  border-width: 2px !important;
+  border-color: black !important;
+  padding: 5px;
+  background-color: #f9f9f9;
+};
