@@ -22,3 +22,6 @@ pub-info:
       icon: fa-solid fa-scroll
 ---
 
+## Abstract
+
+Climate-driven changes in ocean temperatures, currents, or plankton dynamics may disrupt pelagic forage fish recruitment. Being responsive to such impacts enables fisheries management to ensure continued sustainable harvest of forage species. We conducted a management strategy evaluation to assess the robustness of current and alternative Pacific sardine harvest control rules under a variety of recruitment scenarios representing potential projections of future climate conditions in the California Current. The current environmentally informed control rule modifies the harvest rate for the northern sardine subpopulation based on average sea surface temperatures measured during California Cooperative Oceanic Fisheries Investigations field cruises. This rule prioritizes catch at intermediate biomass levels but may increase variability in catch and closure frequency compared to alternative control rules, especially if recruitment is unrelated to ocean temperatures. Fishing at maximum sustainable yield and using dynamically estimated reference points reduced the frequency of biomass falling below 150 000 mt by up to 17%, while using survey index-based biomass estimates resulted in a 14% higher risk of delayed fishery closure during stock declines than when using assessment-based estimates.
