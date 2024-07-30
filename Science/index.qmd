@@ -1,6 +1,20 @@
 ---
 title: ""
+listing:
+  - id: articles
+    contents: "Papers/*/index.qmd"
+    sort: "date desc"
+    template: ../html/listing.ejs
+    categories: true
+page-layout: full
+include-back-link: false
+toc-location: right
 ---
+
+## Journal articles
+
+:::{#articles}
+:::
 
 # Climate and Fisheries {.underline}
 

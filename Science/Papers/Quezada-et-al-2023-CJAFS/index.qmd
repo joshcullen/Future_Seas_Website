@@ -1,0 +1,25 @@
+---
+title: "Catch as catch can: markets, availability, and fishery closures drive distinct responses among the U.S. West Coast coastal pelagic species fleet segments"
+date: 2023-11-29
+author:
+  - name: Felipe Quezada
+  - name: Desiree Tommasi
+  - name: Timothy Frawley
+  - name: Barbara Muhling
+  - name: Isaac Kaplan
+  - name: Stephen Stohs
+categories: 
+  - Climate and Fisheries
+pub-info:
+  reference: >-
+    Quezada, F. J., Tommasi, D., Frawley, T. H., Muhling, B., Kaplan, I., & Stohs, S. (2023). Catch as catch can: markets, availability, and fishery closures drive distinct responses among the U.S. West Coast coastal pelagic species fleet segments. <em>Canadian Journal of Fisheries and Aquatic Sciences</em>. e-First doi: <a href="https://doi.org/10.1139/cjfas-2023-0094">https://doi.org/10.1139/cjfas-2023-0094</a>
+  links:
+    - name: PDF
+      url: Quezada_CJAFS_2023.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Online
+      url: https://doi.org/10.1139/cjfas-2023-0094
+      icon: fa-solid fa-scroll
+---
+

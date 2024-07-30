@@ -1,0 +1,24 @@
+---
+title: "Evaluating robustness of harvest control rules to climate-driven variability in Pacific sardine recruitment"
+date: 2023-11-16
+author:
+  - name: Robert Wildermuth
+  - name: Desiree Tommasi
+  - name: Peter Kuriyama
+  - name: James Smith
+  - name: Isaac Kaplan
+categories: 
+  - Climate and Fisheries
+pub-info:
+  reference: >-
+    Wildermuth, R. P., Tommasi, D., Kuriyama, P., Smith, J., & Kaplan, I. (2023). Evaluating robustness of harvest control rules to climate-driven variability in Pacific sardine recruitment. <em>Canadian Journal of Fisheries and Aquatic Sciences</em>. e-First doi: <a href="https://doi.org/10.1139/cjfas-2023-0169">https://doi.org/10.1139/cjfas-2023-0169</a>
+  links:
+    - name: PDF
+      url: Wildermuth_CJAFS_2023.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Online
+      url: https://doi.org/10.1139/cjfas-2023-0169
+      icon: fa-solid fa-scroll
+---
+
