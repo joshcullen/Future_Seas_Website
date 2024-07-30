@@ -20,7 +20,7 @@ format:
 
 ![**Christopher Edwards<br>Professor<br>UC Santa Cruz**](images/christopher_edwards.jpeg.webp)
 
-![**Jerome Fletcher<br>Associate Professor<br>UC Santa Cruz**](images/jerome_fiechter.jpg.webp)
+![**Jerome Fiechter<br>Associate Professor<br>UC Santa Cruz**](images/jerome_fiechter.jpg.webp)
 
 ![**Tomthy Frawley<br>Postdoctoral Scholar<br>UC Santa Cruz / NOAA SWFSC**](images/timothy_frawley.jpeg.webp)
 

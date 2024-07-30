@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://future-seas.com/Team/index.html</loc>
+    <lastmod>2024-07-23T15:43:16.910Z</lastmod>
+  </url>
+  <url>
     <loc>https://future-seas.com/index.html</loc>
-    <lastmod>2024-07-23T17:55:02.312Z</lastmod>
+    <lastmod>2024-07-30T15:03:20.973Z</lastmod>
   </url>
   <url>
     <loc>https://future-seas.com/fisheries.html</loc>
-    <lastmod>2024-07-23T16:55:32.242Z</lastmod>
+    <lastmod>2024-07-30T14:34:23.510Z</lastmod>
   </url>
   <url>
     <loc>https://future-seas.com/Science/index.html</loc>
-    <lastmod>2024-07-19T21:27:48.747Z</lastmod>
+    <lastmod>2024-07-30T15:29:55.021Z</lastmod>
   </url>
   <url>
-    <loc>https://future-seas.com/Team/index.html</loc>
-    <lastmod>2024-07-23T16:55:32.238Z</lastmod>
+    <loc>https://future-seas.com/Science/Papers/Wildermuth-et-al-2023-CJAFS/index.html</loc>
+    <lastmod>2024-07-30T15:51:39.188Z</lastmod>
   </url>
 </urlset>

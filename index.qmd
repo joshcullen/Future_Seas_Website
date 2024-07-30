@@ -6,6 +6,10 @@ format:
 toc: false
 ---
 
+<!-- ::: {.grid} -->
+<!-- <img src="https://images.pexels.com/photos/6823967/pexels-photo-6823967.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" height="200px"></img> -->
+<!-- ::: -->
+
 ### Future Seas is a collaborative, interdisciplinary effort to explore potential impacts of climate change on U.S. west coast fisheries and to evaluate strategies for managing those impacts.
 
 <br>

@@ -1,0 +1,46 @@
+---
+title: "Projecting climate change impacts from physics to fisheries: A view from three California Current fisheries"
+date: 2023-02-01
+author:
+  - name: James Smith
+  - name: Mercedes Pozo Buil
+  - name: Barbara Muhling
+  - name: Desiree Tommasi
+  - name: Stephanie Brodie
+  - name: Timothy Frawley
+  - name: Jerome Fiechter
+  - name: Stefan Koenigstein
+  - name: Amber Himes-Cornell
+  - name: Michael Alexander
+  - name: Steven Bograd
+  - name: Nathalí Cordero Quirós
+  - name: Larry Crowder
+  - name: Enrique Curchitser
+  - name: Stephanie Green
+  - name: Natasha Hardy
+  - name: Alan Haynie
+  - name: Elliott Hazen
+  - name: Kirstin Holsman
+  - name: Gwendal Le Fol
+  - name: Nerea Lezama-Ochoa
+  - name: Ryan Rykaczewski
+  - name: Charles Stock
+  - name: Stephen Stohs
+  - name: Jonathan Sweeney
+  - name: Heather Welch
+  - name: Michael Jacox
+categories: 
+  - Climate and Fisheries
+pub-info:
+  reference: >-
+    Smith, J. A., Buil, M. P., Muhling, B., Tommasi, D., Brodie, S., Frawley, T. H., Fiechter, J., Koenigstein, S., Himes-Cornell, A., Alexander, M. A., Bograd, S. J., Quirós, N. C., Crowder, L. B., Curchitser, E., Green, S. J., Hardy, N. A., Haynie, A. C., Hazen, E. L., Holsman, K., Le Fol, G., Lezama-Ochoa, N., Rykaczewski, R. R., Stock, C. A., Stohs, S., Sweeney, J., Welch, H., & Jacox, M. G. (2023). Projecting climate change impacts from physics to fisheries: A view from three California Current fisheries. <em>Progress in Oceanography</em>, 211, 102973. doi: <a href="https://doi.org/10.1016/j.pocean.2023.102973">https://doi.org/10.1016/j.pocean.2023.102973</a>
+  links:
+    - name: PDF
+      url: Smith_PiO_2023.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Online
+      url: https://doi.org/10.1016/j.pocean.2023.102973
+      icon: fa-solid fa-scroll
+---
+
