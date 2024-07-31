@@ -1,0 +1,28 @@
+---
+title: "Advancing CPS Management Strategy Evaluation (MSE) in the California Current"
+date: 2018-10-09
+categories: 
+  - Climate and Fisheries
+  - Ocean Physics and Biogeochemistry
+  - Species Distribution Modeling and Dynamic Ocean Management
+  - Coupled Mechanistic Modeling
+  - Ocean Observing
+pub-info:
+  reference: >-
+    Tommasi et al. (2018). Advancing CPS Management Strategy Evaluation (MSE) in the California Current.
+  links:
+    - name: PDF
+      url: CPS-MSE-Workshop-Oct2018-Summary.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+---
+
+## Workshop objectives
+
+This workshop was aimed at engaging stakeholders in the coastal pelagic species (CPS) fishery
+to advance development of CPS management strategy evaluation (MSE) in the region, with an
+outlook to better understand how climate change will affect CPS fisheries. A key goal was to
+discuss priorities and concerns in the CPS fishery, which inform the MSE process by indicating
+appropriate management strategies and fishery performance metrics. This workshop was
+organized by researchers from the SWFSC (the ‘Future Seas’ and ‘Coastal SEES’ projects) and
+the University of Washington. The agenda used in this meeting is attached to this document.

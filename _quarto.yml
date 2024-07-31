@@ -12,6 +12,7 @@ website:
     type: danger
     position: below-navbar
   navbar:
+    logo: images/FutureSeas_logo_text.jpeg.webp
     left:
       - href: fisheries.qmd
         text: Fisheries
