@@ -75,7 +75,16 @@
   opacity: 0.5;
 }
 
+// hero header for top of page
+.hero {
+  background-image: url(https://images.unsplash.com/photo-1516031636401-f728d11b5014?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-position-y: center;
+  height: 200px;
+}
 
+
+// for listing of publications, presentations, and reports
 .research {
     .back-nav a {
         color: shift-color($red, -50%);
