@@ -1,0 +1,28 @@
+---
+title: "Catch as catch can: markets, availability, and fishery closures drive distinct responses among the U.S. West Coast coastal pelagic species fleet segments"
+date: 2023-11-29
+author:
+  - name: Felipe Quezada
+  - name: Desiree Tommasi
+  - name: Timothy Frawley
+  - name: Barbara Muhling
+  - name: Isaac Kaplan
+  - name: Stephen Stohs
+categories: 
+  - Climate and Fisheries
+pub-info:
+  reference: >-
+    Quezada, F. J., Tommasi, D., Frawley, T. H., Muhling, B., Kaplan, I., & Stohs, S. (2023). Catch as catch can: markets, availability, and fishery closures drive distinct responses among the U.S. West Coast coastal pelagic species fleet segments. <em>Canadian Journal of Fisheries and Aquatic Sciences</em>. e-First doi: <a href="https://doi.org/10.1139/cjfas-2023-0094">https://doi.org/10.1139/cjfas-2023-0094</a>
+  links:
+    - name: PDF
+      url: Quezada_CJAFS_2023.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Online
+      url: https://doi.org/10.1139/cjfas-2023-0094
+      icon: fa-solid fa-scroll
+---
+
+## Abstract
+
+Fishers often target multiple species. More diverse harvest portfolios may reduce income risk, increasing resilience to climate-driven changes in target species’ spatial distributions and availability. Moreover, different effects can be observed across vessels in response to the same shocks and stressors, as fishers are heterogeneous. Evaluation of climate risk across different vessel groups within a particular fishery requires consideration of heterogeneous climate impacts on the availability of multiple target species and how such changes may impact substitution behavior. Here we analyze how historical climate-driven changes in forage species distribution and the closure of the Pacific sardine fishery affected landings per vessel of three coastal pelagic species (CPS): Pacific sardine (*Sardinops sagax*), market squid (*Doryteuthis opalescens*), and northern anchovy (*Engraulis mordax*) targeted by the U.S. West Coast CPS fleet from 2000 to 2020. Using cluster analysis, we grouped vessels into different fleet segments and estimated heterogeneous responses by fleet segment and port area. Our results show that considering heterogeneity is essential in the development of equitable and effective adaptation policies designed to mitigate the impact of changes on species availability in these fisheries.

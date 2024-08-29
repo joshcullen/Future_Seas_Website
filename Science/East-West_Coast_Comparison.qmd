@@ -1,0 +1,41 @@
+---
+title: "Comparing Adaptive Capacity"
+toc: false
+---
+
+![](images/Fig_CompareEastWest.jpg){fig-align="center" width=75%}
+
+
+The Future Seas team is working to develop and calculate metrics of adaptive capacity for
+communities involved in the groundfish industries on the U.S. East and West Coasts.
+Specifically, they aim to identify fishery participants that have demonstrated the flexibility to
+change target species, port of landing, location of fishing grounds, or other aspects of their
+fishing practices that may allow communities to persist during this period of rapid environmental
+change.
+
+Groundfish have long been a cornerstone of commercial fisheries along both the East and West
+Coasts of the United States. For centuries, fishers have employed a variety of methods—such as
+nets, hook and line, longline, and pots—to target a diverse range of species, including flatfish,
+rockfish, and gadids. The National Marine Fisheries Service has played a crucial role in
+rebuilding many groundfish stocks in both the Pacific and Atlantic Oceans after significant
+population declines in the 1980s and 1990s. To curb overfishing and improve efficiency,
+regional fisheries management councils introduced catch share programs for the Northeast
+(2010) and West Coast (2011) groundfish trawl fisheries.
+
+The groundfish industry is highly diverse, encompassing small-scale operations from coastal
+communities deeply dependent on fisheries, as well as large corporate entities owning multiple
+vessels. These fisheries are particularly vulnerable to environmental changes, such as shifts in
+temperature, pH, and oceanographic patterns driven by climate change. However, the
+implications of these changes—on fish population abundance and distribution, and the
+subsequent effects on fishing communities—remain uncertain.
+
+The team is also exploring how differences between the East and West Coasts, including
+bathymetry, the rate of environmental change, management structures, and coastal infrastructure,
+influence the flexibility dimension of adaptive capacity of these communities (Cinner et al.
+2018).
+
+
+## References
+Cinner, J. E., Adger, W. N., Allison, E. H., Barnes, M. L., Brown, K., Cohen, P. J., ... &
+Morrison, T. H. (2018). Building adaptive capacity to climate change in tropical coastal
+communities. *Nature Climate Change*, 8(2), 117-123. <https://doi.org/10.1038/s41558-017-0065-x>

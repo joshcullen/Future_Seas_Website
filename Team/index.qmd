@@ -10,53 +10,53 @@ format:
 ## Research Team
 
 ::: {.wrapper}
-![[**Michael Alexander<br>Meteorologist<br>NOAA ESRL**](https://www.esrl.noaa.gov/psd/people/michael.alexander/)](images/michael_alexander.jpg.webp)
+![[**Michael Alexander<br>Meteorologist<br>NOAA ESRL**](https://www.esrl.noaa.gov/psd/people/michael.alexander/)](images/michael_alexander.jpg.webp){.img-fluid-team}
 
-![**Steven Bograd<br>Oceanographer<br>NOAA SWFSC**](images/steven_bograd.jpg.webp)
+![**Steven Bograd<br>Oceanographer<br>NOAA SWFSC**](images/steven_bograd.jpg.webp){.img-fluid-team}
 
-![**Stephanie Brodie<br>Ecologist<br>UC Santa Cruz / NOAA SWFSC**](images/stephanie_brodie.jpg.webp)
+![**Stephanie Brodie<br>Ecologist<br>UC Santa Cruz / NOAA SWFSC**](images/stephanie_brodie.jpg.webp){.img-fluid-team}
 
-![**Enrique Curchitser<br>Associate Professor<br>Rutgers University**](images/enrique_curchitser.jpg.webp)
+![**Enrique Curchitser<br>Associate Professor<br>Rutgers University**](images/enrique_curchitser.jpg.webp){.img-fluid-team}
 
-![**Christopher Edwards<br>Professor<br>UC Santa Cruz**](images/christopher_edwards.jpeg.webp)
+![**Christopher Edwards<br>Professor<br>UC Santa Cruz**](images/christopher_edwards.jpeg.webp){.img-fluid-team}
 
-![**Jerome Fiechter<br>Associate Professor<br>UC Santa Cruz**](images/jerome_fiechter.jpg.webp)
+![**Jerome Fiechter<br>Associate Professor<br>UC Santa Cruz**](images/jerome_fiechter.jpg.webp){.img-fluid-team}
 
-![**Tomthy Frawley<br>Postdoctoral Scholar<br>UC Santa Cruz / NOAA SWFSC**](images/timothy_frawley.jpeg.webp)
+![**Tomthy Frawley<br>Postdoctoral Scholar<br>UC Santa Cruz / NOAA SWFSC**](images/timothy_frawley.jpeg.webp){.img-fluid-team}
 
-![**Elliott Hazen<br>Ecologist<br>NOAA SWFSC**](images/elliott_hazen.png.webp)
+![**Elliott Hazen<br>Ecologist<br>NOAA SWFSC**](images/elliott_hazen.png.webp){.img-fluid-team}
 
-![**Amber Himes-Cornell<br>Fishery Officer<br>FAO Fisheries and Aquaculture**](images/amber_himes_cornell.jpg.webp)
+![**Amber Himes-Cornell<br>Fishery Officer<br>FAO Fisheries and Aquaculture**](images/amber_himes_cornell.jpg.webp){.img-fluid-team}
 
-![**Michael Jacox<br>Oceanogrpaher<br>NOAA SWFSC / NOAA ESRL**](images/michael_jacox.jpg.webp)
+![**Michael Jacox<br>Oceanogrpaher<br>NOAA SWFSC / NOAA ESRL**](images/michael_jacox.jpg.webp){.img-fluid-team}
 
-![**Stefan Koenigstein<br>Project Scientist<br>UC Santa Cruz / NOAA SWFSC**](images/stefan_koenigstein.jpg.webp)
+![**Stefan Koenigstein<br>Project Scientist<br>UC Santa Cruz / NOAA SWFSC**](images/stefan_koenigstein.jpg.webp){.img-fluid-team}
 
-![**Peter Kuriyama<br>Statistician<br>NOAA SWFSC**](images/peter_kuriyama.jpg.webp)
+![**Peter Kuriyama<br>Statistician<br>NOAA SWFSC**](images/peter_kuriyama.jpg.webp){.img-fluid-team}
 
-![**Gwendal Le Fol<br>Consultant Researcher<br>Ocean Enivronment Consulting and Translation**](images/gwendal_le-fol.jpg.webp)
+![**Gwendal Le Fol<br>Consultant Researcher<br>Ocean Enivronment Consulting and Translation**](images/gwendal_le-fol.jpg.webp){.img-fluid-team}
 
-![**Barbara Muhling<br>Project Scientist<br>UC Santa Cruz / NOAA SWFSC**](images/barbara_muhling.jpg.webp)
+![**Barbara Muhling<br>Project Scientist<br>UC Santa Cruz / NOAA SWFSC**](images/barbara_muhling.jpg.webp){.img-fluid-team}
 
-![**Mercedes Pozo Buil<br>Project Scientist<br>UC Santa Cruz / NOAA SWFSC**](images/mercedes_pozo-buil.jpg.webp)
+![**Mercedes Pozo Buil<br>Project Scientist<br>UC Santa Cruz / NOAA SWFSC**](images/mercedes_pozo-buil.jpg.webp){.img-fluid-team}
 
-![**Felipe Quezada<br>Postdoctoral Scholar<br>UC Santa Cruz / NOAA SWFSC**](images/felipe_quezada.jpg.webp)
+![**Felipe Quezada<br>Postdoctoral Scholar<br>UC Santa Cruz / NOAA SWFSC**](images/felipe_quezada.jpg.webp){.img-fluid-team}
 
-![**Ryan Rykaczewski<br>Oceanographer<br>NOAA PIFSC**](images/ryan_rykaczewski.jpg.webp)
+![**Ryan Rykaczewski<br>Oceanographer<br>NOAA PIFSC**](images/ryan_rykaczewski.jpg.webp){.img-fluid-team}
 
-![**James Smith<br>Project Scientist<br>UC Santa Cruz / NOAA SWFSC**](images/james_smith.jpg.webp)
+![**James Smith<br>Project Scientist<br>UC Santa Cruz / NOAA SWFSC**](images/james_smith.jpg.webp){.img-fluid-team}
 
-![**Stephen Stohs<br>Economist<br>NOAA SWFSC**](images/stephen_stohs.png.webp)
+![**Stephen Stohs<br>Economist<br>NOAA SWFSC**](images/stephen_stohs.png.webp){.img-fluid-team}
 
-![**Jonathan Sweeney<br>Economist<br>NOAA PIFSC**](images/jonathan_sweeney.jpg.webp)
+![**Jonathan Sweeney<br>Economist<br>NOAA PIFSC**](images/jonathan_sweeney.jpg.webp){.img-fluid-team}
 
-![**Andrew Thompson<br>Fisheries Biologist<br>NOAA SWFSC**](images/andrew_thompson.jpg.webp)
+![**Andrew Thompson<br>Fisheries Biologist<br>NOAA SWFSC**](images/andrew_thompson.jpg.webp){.img-fluid-team}
 
-![**Desiree Tommasi<br>Project Scientist<br>UC Santa Cruz / NOAA SWFSC**](images/desiree_tommasi.jpg.webp)
+![**Desiree Tommasi<br>Project Scientist<br>UC Santa Cruz / NOAA SWFSC**](images/desiree_tommasi.jpg.webp){.img-fluid-team}
 
-![**Heather Welch<br>Research Biologist<br>UC Santa Cruz / NOAA SWFSC**](images/heather_welch.jpeg.webp)
+![**Heather Welch<br>Research Biologist<br>UC Santa Cruz / NOAA SWFSC**](images/heather_welch.jpeg.webp){.img-fluid-team}
 
-![**Robert Wildermuth<br>Postdoctoral Scholar<br>UC Santa Cruz / NOAA SWFSC**](images/robert_wildermuth.jpg.webp)
+![**Robert Wildermuth<br>Postdoctoral Scholar<br>UC Santa Cruz / NOAA SWFSC**](images/robert_wildermuth.jpg.webp){.img-fluid-team}
 :::
 
 
@@ -64,19 +64,19 @@ format:
 ## Collaborators
 
 ::: {.wrapper}
-![**Larry Crowder<br>Professor<br>Stanford University**](images/larry_crowder.jpg.webp)
+![**Larry Crowder<br>Professor<br>Stanford University**](images/larry_crowder.jpg.webp){.img-fluid-team}
 
-![**Stephanie Green<br>Assistant Professor<br>University of Alberta**](images/stephanie_green.jpg.webp)
+![**Stephanie Green<br>Assistant Professor<br>University of Alberta**](images/stephanie_green.jpg.webp){.img-fluid-team}
 
-![**Natasha Hardy<br>Postdoctoral Scholar<br>University of Alberta**](images/natasha_hardy.jpg.webp)
+![**Natasha Hardy<br>Postdoctoral Scholar<br>University of Alberta**](images/natasha_hardy.jpg.webp){.img-fluid-team}
 
-![**Alan Haynie<br>Economist<br>NOAA AFSC**](images/alan_haynie.jpg.webp)
+![**Alan Haynie<br>Economist<br>NOAA AFSC**](images/alan_haynie.jpg.webp){.img-fluid-team}
 
-![**Alistair Hobday<br>Senior Research Scientist<br>CSIRO Oceans and Atmpshere**](images/alistair_hobday.jpg.webp)
+![**Alistair Hobday<br>Senior Research Scientist<br>CSIRO Oceans and Atmpshere**](images/alistair_hobday.jpg.webp){.img-fluid-team}
 
-![**Anne Hollowed<br>Senior Scientist<br>NOAA AFSC**](images/anne_hollowed.jpeg.webp)
+![**Anne Hollowed<br>Senior Scientist<br>NOAA AFSC**](images/anne_hollowed.jpeg.webp){.img-fluid-team}
 
-![**Kirstin Holsman<br>Fishery Biologist<br>NOAA AFSC**](images/kirstin_holsman.jpg.webp)
+![**Kirstin Holsman<br>Fishery Biologist<br>NOAA AFSC**](images/kirstin_holsman.jpg.webp){.img-fluid-team}
 
-![**Charles Stock<br>Oceanographer<br>NOAA GFDL**](images/charles_stock.jpg.webp)
+![**Charles Stock<br>Oceanographer<br>NOAA GFDL**](images/charles_stock.jpg.webp){.img-fluid-team}
 :::

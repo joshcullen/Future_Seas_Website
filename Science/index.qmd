@@ -1,37 +1,32 @@
 ---
-title: ""
-listing:
-  - id: articles
-    contents: "Papers/*/index.qmd"
-    sort: "date desc"
-    template: ../html/listing.ejs
-    categories: true
-  - id: presentations
-    contents: "Presentations/*/index.qmd"
-    sort: "date desc"
-    template: ../html/listing.ejs
-    categories: true
-  - id: reports
-    contents: "Reports/*/index.qmd"
-    sort: "date desc"
-    template: ../html/listing.ejs
-    categories: true
-page-layout: full
-include-back-link: false
-toc-location: right
+title: "Science"
 ---
 
-## Journal articles
+## [Climate Modeling](Climate_Modeling.qmd)
 
-:::{#articles}
-:::
+Add short blurb of text here.
 
-## Presentations
 
-:::{#presentations}
-:::
+## [Species Distribution Modeling](Species_Distribution_Modeling.qmd)
 
-## Reports
+Add short blurb of text here.
 
-:::{#reports}
-:::
+
+## [Atlantis Ecosystem Model](Atlantis.qmd)
+
+Add short blurb of text here.
+
+
+## [Management Strategy Evaluation](Management_Strategy_Evaluation.qmd)
+
+Add short blurb of text here.
+
+
+## [Fishing Communities](Fishing_Communities.qmd)
+
+Add short blurb of text here.
+
+
+## [East-West Coast Comparison](East-West_Coast_Comparison.qmd)
+
+Add short blurb of text here.

@@ -18,6 +18,8 @@ website:
         text: Fisheries
       - href: Science/index.qmd
         text: Science
+      - href: Products/index.qmd
+        text: Products
       - href: Team/index.qmd
         text: Team
   page-footer:

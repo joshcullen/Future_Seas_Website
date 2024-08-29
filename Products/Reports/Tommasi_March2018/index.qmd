@@ -1,0 +1,22 @@
+---
+title: "Management Strategy Evaluation (MSE) Workshop for the NOAA OAR/NMFS Project “Future Climate Change and the California Current (Future Seas) - A Physics to Fisheries Management Strategy Evaluation”"
+date: 2018-03-28
+categories: 
+  - Climate and Fisheries
+  - Ocean Physics and Biogeochemistry
+  - Species Distribution Modeling and Dynamic Ocean Management
+  - Coupled Mechanistic Modeling
+  - Ocean Observing
+pub-info:
+  reference: >-
+    Tommasi, D., Jacox, M., Muhling, B., Smith, J., Stohs, S., & Sweeney, J. (2018). Management Strategy Evaluation (MSE) Workshop for the NOAA OAR/NMFS Project “Future Climate Change and the California Current (Future Seas) - A Physics to Fisheries Management Strategy Evaluation”.
+  links:
+    - name: PDF
+      url: FutureSeas_MSE_Workshop_Report.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+---
+
+## Abstract
+
+A one-day management strategy evaluation (MSE) workshop in support of the NOAA funded Future Seas project was held March 28, 2018 in La Jolla, CA. Attendees included academic and government scientists as well as representatives of federal agencies (NMFS West Coast Regional Office; Pacific Fisheries Management Council), state agencies (California and Oregon Departments of Fish and Wildlife), non-governmental organizations (Monterey Bay Aquarium, Ocean Conservancy, Pew Charitable Trusts, Wild Oceans), and the sardine, swordfish, and albacore fishers (including the American Albacore Fishing Association, Western Fishboat Owners Association, and the American Fishermen’s Research Foundation). The workshop began with an overview of the oceanography of the California Current followed by an introduction to the Future Seas project, including objectives, timelines, and deliverables. The bulk of the day was dedicated to discussions of issues surrounding each of three U.S. west coast fisheries – albacore tuna, sardine, and swordfish. The discussion was lively and productive and is detailed in this report. With input from all represented stakeholders, we were able to synthesize for each fishery the key management objectives, stakeholder priorities, performance metrics, and management strategies. These findings will guide the development and execution of the project and ensure that it addresses the concerns of stakeholders. While issues surrounding management of these fisheries can be contentious, attendees expressed appreciation for being involved in the early stages of the project and interest in follow-up workshops in the coming years.

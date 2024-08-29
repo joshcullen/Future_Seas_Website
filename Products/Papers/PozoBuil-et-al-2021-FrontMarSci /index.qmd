@@ -1,0 +1,21 @@
+---
+title: "Projected novelty in the climate envelope of the California Current at multiple spatial-temporal scales"
+date: 2021-04-06
+categories: 
+  - Ocean Physics and Biogeochemistry
+pub-info:
+  reference: >-
+    Pozo Buil, M., Jacox, M. G., Fiechter, J., Alexander, M. A., Bograd, S. J., Curchitser, E. N., Edwards, C. A., Rykaczewski, R. R., & Stock, C. A. (2021). A dynamically downscaled ensemble of future projections for the California current system. <em>Frontiers in Marine Science</em>, 8, 612874. doi: <a href="https://doi.org/10.3389/fmars.2021.612874">https://doi.org/10.3389/fmars.2021.612874</a>
+  links:
+    - name: PDF
+      url: PozoBuil_FrontMarSci_2021.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Online
+      url: https://doi.org/10.3389/fmars.2021.612874
+      icon: fa-solid fa-scroll
+---
+
+## Abstract
+
+Given the ecological and economic importance of eastern boundary upwelling systems like the California Current System (CCS), their evolution under climate change is of considerable interest for resource management. However, the spatial resolution of global earth system models (ESMs) is typically too coarse to properly resolve coastal winds and upwelling dynamics that are key to structuring these ecosystems. Here we use a high-resolution (0.1°) regional ocean circulation model coupled with a biogeochemical model to dynamically downscale ESMs and produce climate projections for the CCS under the high emission scenario, Representative Concentration Pathway 8.5. To capture model uncertainty in the projections, we downscale three ESMs: GFDL-ESM2M, HadGEM2-ES, and IPSL-CM5A-MR, which span the CMIP5 range for future changes in both the mean and variance of physical and biogeochemical CCS properties. The forcing of the regional ocean model is constructed with a “time-varying delta” method, which removes the mean bias of the ESM forcing and resolves the full transient ocean response from 1980 to 2100. We found that all models agree in the direction of the future change in offshore waters: an intensification of upwelling favorable winds in the northern CCS, an overall surface warming, and an enrichment of nitrate and corresponding decrease in dissolved oxygen below the surface mixed layer. However, differences in projections of these properties arise in the coastal region, producing different responses of the future biogeochemical variables. Two of the models display an increase of surface chlorophyll in the northern CCS, consistent with a combination of higher nitrate content in source waters and an intensification of upwelling favorable winds. All three models display a decrease of chlorophyll in the southern CCS, which appears to be driven by decreased upwelling favorable winds and enhanced stratification, and, for the HadGEM2-ES forced run, decreased nitrate content in upwelling source waters in nearshore regions. While trends in the downscaled models reflect those in the ESMs that force them, the ESM and downscaled solutions differ more for biogeochemical than for physical variables.

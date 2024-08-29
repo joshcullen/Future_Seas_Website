@@ -1,0 +1,40 @@
+---
+title: "Atlantis Ecosystem Model"
+toc: false
+---
+
+![Atlantis ecosystem model domain for the California Current. One realization of the
+simulated sardine biomass distribution is shown here. In the spatial model, the spatial
+distribution of sardine affects their availability to predators and fleets. Additionally, spatial
+distribution affects availability to research surveys, which feed into stock assessment and
+management.](images/Fig_Atlantis.jpg){#fig-atlantis fig-align="center" width=75%}
+
+The [Atlantis](https://research.csiro.au/atlantis/) end-to-end framework (Fulton et al. 2011, Audzijonyte et al. 2019) simulates
+population dynamics, oceanography, fishing, and ecological interactions in a three dimensional
+simulation. To explore climate change scenarios within Future Seas 3, we integrate projections
+of downscaled oceanography and species distributions into Atlantis. This allows us to compare
+single-species model outputs to results from the ecologically complex Atlantis model, under
+realistic climate change scenarios.
+
+We focus on questions including:
+
+- Which species will shift distributions, including across jurisdictional boundaries?
+- What is the effect of these shifts on the relative availability of species to predators, and to
+fishing communities’ and ports’ fishing grounds?
+- Do we expect changes in stock productivity, due to warming, food web effects, or other
+drivers?
+- How rapidly must fisheries management adapt to changing fish stock distribution and
+productivity?
+- Will single-species stock assessments struggle to estimate the status of fish populations in
+a changing climate, and if so, how can this be solved?
+
+
+## References
+Audzijonyte, A., Pethybridge, H., Porobic, J., Gorton, R., Kaplan, I., &amp; Fulton, E. A. (2019).
+Atlantis: A spatially explicit end‐to‐end marine ecosystem model with dynamically integrated
+physics, ecology and socio‐economic modules. *Methods in Ecology and Evolution*, 10(10),
+1814-1819. <https://doi.org/10.1111/2041-210X.13272>
+
+Fulton, E. A., Link, J. S., Kaplan, I. C., Savina‐Rolland, M., Johnson, P., Ainsworth, C., ... &amp;
+Smith, D. C. (2011). Lessons in modelling and management of marine ecosystems: the Atlantis
+experience. *Fish and Fisheries*, 12(2), 171-188. <https://doi.org/10.1111/j.1467-2979.2011.00412.x>

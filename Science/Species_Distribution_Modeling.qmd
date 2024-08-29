@@ -1,0 +1,59 @@
+---
+title: "Species Distribution Modeling"
+toc: false
+---
+
+![Differences (future minus historical) in projected habitat suitabilities for species which
+are expected to lose (left panel) core habitat area (‘habitat loss’: marine mammals and thresher
+shark) and species which are expected to gain (right panel) core habitat area (‘habitat gain’: blue
+shark, leatherback turtle, mako shark and swordfish) averaged by ESMs. Red represents
+predicted loss in habitat suitability and blue gain in habitat suitability. Centre of gravity and their
+corresponding 1± standard deviation calculated across species and ESM are represented for the
+historical (green crosses) and future (orange crosses) periods. From Lezama Ochoa et al. (2024)](images/Fig_SDM1.jpg){#fig-sdm1 fig-align="center" width=75%}
+
+<br><br>
+
+As climate change leads to novel ocean conditions, marine species are shifting their spatial
+distributions. The Future Seas Species Distribution Modeling (SDM) team is building models to
+anticipate the magnitude and direction of these shifts. We are focusing on a suite of species,
+including coastal pelagics (e.g., sardine, anchovy: Muhling et al. 2020), groundfish (e.g.,
+sablefish: Liu et al. 2023), highly migratory species (e.g. tunas), and protected species (e.g.,
+whales, turtles: Lezama Ochoa et al. 2024).
+
+We train our SDMs using biological observations from fisheries, NOAA surveys, and animal
+telemetry, in combination with environmental predictors from ocean models and satellite
+sensors. SDMs are then applied to downscaled projections of future conditions ([see Ocean and Climate Modeling](Climate_Modeling.qmd)) to show how animals with different physiologies and life histories may respond
+to climate change in our region (@fig-sdm1, @fig-sdm2).
+
+<br><br>
+
+![Coast-wide projections of bottom temperature, bottom oxygen, and species abundance.
+(A) Projected coast-wide change in bottom temperature (°C) and bottom oxygen (mmol/m3),
+comparing the 2075–2100 mean to the 1985–2010 baseline period and presented as an ensemble
+mean across the three CCROMS-ESMs. (B) Projected ensemble abundance indices for the four
+DTS species under the three CCROMS-ESMs, presented as 5-year running averages. Solid lines
+are median projection values, and ribbons display ±1 SE. Black vertical bars denote the range of
+historical variability in the abundance index for each species from 1985 to 2010. From Liu et al.
+(2023).](images/Fig_SDM2.png){#fig-sdm2 fig-align="center" width=75%}
+
+<br><br>
+
+SDM outputs are condensed into indicators for inclusion in Ecosystem Status Reports and other
+management-relevant products. They are also used to inform the [Atlantis ecosystem model](Atlantis.qmd), [socioeconomic analyses](Fishing_Communities.qmd), and other aspects of Future
+Seas research.
+
+
+## References
+Lezama‐Ochoa, N., Brodie, S., Welch, H., Jacox, M. G., Pozo Buil, M., Fiechter, J., ... &
+Hazen, E. L. (2024). Divergent responses of highly migratory species to climate change in the
+California Current. *Diversity and Distributions*, 30(2), e13800. <https://doi.org/10.1111/ddi.13800>
+
+Liu, O. R., Ward, E. J., Anderson, S. C., Andrews, K. S., Barnett, L. A., Brodie, S., ... &
+Samhouri, J. F. (2023). Species redistribution creates unequal outcomes for multispecies
+fisheries under projected climate change. *Science Advances*, 9(33), eadg5468.
+<https://doi.org/10.1126/sciadv.adg5468>
+
+Muhling, B. A., Brodie, S., Smith, J. A., Tommasi, D., Gaitan, C. F., Hazen, E. L., ... & Brodeur,
+R. D. (2020). Predictability of species distributions deteriorates under novel environmental
+conditions in the California Current System. *Frontiers in Marine Science*, 7, 589.
+<https://doi.org/10.3389/fmars.2020.00589>

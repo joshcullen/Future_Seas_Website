@@ -1,0 +1,37 @@
+---
+title: ""
+listing:
+  - id: articles
+    contents: "Papers/*/index.qmd"
+    sort: "date desc"
+    template: ../html/listing.ejs
+    categories: true
+  - id: presentations
+    contents: "Presentations/*/index.qmd"
+    sort: "date desc"
+    template: ../html/listing.ejs
+    categories: true
+  - id: reports
+    contents: "Reports/*/index.qmd"
+    sort: "date desc"
+    template: ../html/listing.ejs
+    categories: true
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+## Journal articles
+
+:::{#articles}
+:::
+
+## Presentations
+
+:::{#presentations}
+:::
+
+## Reports
+
+:::{#reports}
+:::

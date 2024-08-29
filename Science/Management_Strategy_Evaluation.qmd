@@ -1,0 +1,43 @@
+---
+title: "Management Strategy Evaluation"
+toc: false
+---
+
+![MSE framework for Pacific sardine from Wildermuth et al. (2023)](images/Fig_MSE.jpg){#fig-mse fig-align="center" width=75%}
+
+
+The Management Strategy Evaluation team uses a closed-loop computer simulation tool, called
+Management Strategy Evaluation (MSE), to assess robustness of current or alternative
+management rules to climate change. MSE is a multi-model framework that simulates potential
+future scenarios of the population, fisheries and/or ecosystem (called operating models) as well
+as the management system, from data generation to stock status estimation with a stock
+assessment model, to management measure implementation. Like a flight simulator, MSE
+enables us to test performance of a management strategy given a set of management objectives,
+in a virtual world. We would not expect a management strategy to work well in reality, if it does
+not perform well in a computer simulation.
+
+MSE can be used to simulation test current and alternative management strategies under
+potential future states to examine if management strategies are climate robust. Those potential
+future states scenarios are developed using the Future Seas suite of statistical and process-based
+models linked to future projections of California Current oceanography, and include potential
+future scenarios of recruitment, growth, natural mortality, distribution and food web-interactions.
+
+We recently completed an MSE for sardine that evaluated robustness of the assessment and
+harvest control rule to projected changes in sardine recruitment (Wildermuth et al. 2023, @fig-mse). We found that there was no indication of increased assessment error under projected changes
+in sardine recruitment. Furthermore, it was also shown that the current sardine assessment
+process and frequency can effectively track changes in the population status of sardine, making
+current management rules robust to changes in sardine recruitment as compared to more static
+approaches. Other harvest control rules that are responsive to environmentally driven changes by
+using dynamic reference points were also found to improve outcomes compared to static
+management. Management performance for sardine in a changing climate likely depends on
+frequent, responsive monitoring and assessment. See Wildermuth et al. 2023 to learn more! The
+simulation code is also available at <https://github.com/futureseas/SardineMSE/tree/main>.
+We are currently working on an ecosystem based MSE using the [Atlantis ecosystem model](Atlantis.qmd) to asses performance of forage fish harvest rules to climate-driven ecosystem
+change, results to come soon!
+
+
+## References
+Wildermuth, R. P., Tommasi, D., Kuriyama, P., Smith, J., & Kaplan, I. (2023). Evaluating
+robustness of harvest control rules to climate-driven variability in Pacific sardine recruitment.
+*Canadian Journal of Fisheries and Aquatic Sciences*, 81(8), 1029-1051.
+<https://doi.org/10.1139/cjfas-2023-0169>
