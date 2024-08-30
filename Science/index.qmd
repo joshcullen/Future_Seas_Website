@@ -1,32 +1,33 @@
 ---
 title: "Science"
+toc: false
 ---
 
 ## [Climate Modeling](Climate_Modeling.qmd)
 
-Add short blurb of text here.
+Developing high-resolution regional climate models for the California Current System.
 
 
 ## [Species Distribution Modeling](Species_Distribution_Modeling.qmd)
 
-Add short blurb of text here.
+Building statistical models to understand what drives the spatial distribution of marine species, and how distributions will shift in future.
 
 
 ## [Atlantis Ecosystem Model](Atlantis.qmd)
 
-Add short blurb of text here.
+Developing a “whole-ecosystem” modeling approach, incorporating everything from physics to fisheries.
 
 
 ## [Management Strategy Evaluation](Management_Strategy_Evaluation.qmd)
 
-Add short blurb of text here.
+Identifying management strategies that promote resilience to climate change.
 
 
 ## [Fishing Communities](Fishing_Communities.qmd)
 
-Add short blurb of text here.
+Assessing the vulnerability of fishing communities to climate shocks and regulatory changes.
 
 
 ## [East-West Coast Comparison](East-West_Coast_Comparison.qmd)
 
-Add short blurb of text here.
+Comparing the adaptive capacity of groundfish fisheries between the East and West coasts of the US.

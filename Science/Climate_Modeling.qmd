@@ -7,6 +7,7 @@ toc: false
 CCLME Atlantis domain (orange), and the ROMS-CCLME downscaled physics and
 biogeochemistry (green).](images/Fig_ClimateModeling.jpg){#fig-clim-mod fig-align="center" width=75%}
 
+<br>
 The ocean and climate modeling team is developing high-resolution, downscaled projections of
 future conditions in the California Current System and Gulf of Alaska. We use physical and
 biogeochemical conditions from an ensemble of high-resolution (~0.1°) projections for the

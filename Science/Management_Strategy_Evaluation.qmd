@@ -3,9 +3,9 @@ title: "Management Strategy Evaluation"
 toc: false
 ---
 
-![MSE framework for Pacific sardine from Wildermuth et al. (2023)](images/Fig_MSE.jpg){#fig-mse fig-align="center" width=75%}
+![MSE framework for Pacific sardine from Wildermuth et al. (2023).](images/Fig_MSE.jpg){#fig-mse fig-align="center" width=100%}
 
-
+<br>
 The Management Strategy Evaluation team uses a closed-loop computer simulation tool, called
 Management Strategy Evaluation (MSE), to assess robustness of current or alternative
 management rules to climate change. MSE is a multi-model framework that simulates potential

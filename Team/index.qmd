@@ -7,6 +7,16 @@ format:
     page-layout: full
 ---
 
+```{=html}
+<style>
+.figure {
+  text-align: center;
+  font-weight: 400;
+}
+</style>
+```
+
+
 ## Research Team
 
 ::: {.wrapper}

@@ -3,16 +3,25 @@ title: "Species Distribution Modeling"
 toc: false
 ---
 
+```{=html}
+<style>
+.figure {
+  text-align: left;
+  font-weight: 400;
+}
+</style>
+```
+
+
 ![Differences (future minus historical) in projected habitat suitabilities for species which
 are expected to lose (left panel) core habitat area (‘habitat loss’: marine mammals and thresher
 shark) and species which are expected to gain (right panel) core habitat area (‘habitat gain’: blue
 shark, leatherback turtle, mako shark and swordfish) averaged by ESMs. Red represents
 predicted loss in habitat suitability and blue gain in habitat suitability. Centre of gravity and their
 corresponding 1± standard deviation calculated across species and ESM are represented for the
-historical (green crosses) and future (orange crosses) periods. From Lezama Ochoa et al. (2024)](images/Fig_SDM1.jpg){#fig-sdm1 fig-align="center" width=75%}
+historical (green crosses) and future (orange crosses) periods. From Lezama Ochoa et al. (2024).](images/Fig_SDM1.jpg){#fig-sdm1 fig-align="center" width=100% text-align="left"}
 
-<br><br>
-
+<br>
 As climate change leads to novel ocean conditions, marine species are shifting their spatial
 distributions. The Future Seas Species Distribution Modeling (SDM) team is building models to
 anticipate the magnitude and direction of these shifts. We are focusing on a suite of species,
@@ -36,8 +45,7 @@ are median projection values, and ribbons display ±1 SE. Black vertical bars de
 historical variability in the abundance index for each species from 1985 to 2010. From Liu et al.
 (2023).](images/Fig_SDM2.png){#fig-sdm2 fig-align="center" width=75%}
 
-<br><br>
-
+<br>
 SDM outputs are condensed into indicators for inclusion in Ecosystem Status Reports and other
 management-relevant products. They are also used to inform the [Atlantis ecosystem model](Atlantis.qmd), [socioeconomic analyses](Fishing_Communities.qmd), and other aspects of Future
 Seas research.

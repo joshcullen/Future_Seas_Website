@@ -9,6 +9,7 @@ distribution of sardine affects their availability to predators and fleets. Addi
 distribution affects availability to research surveys, which feed into stock assessment and
 management.](images/Fig_Atlantis.jpg){#fig-atlantis fig-align="center" width=75%}
 
+<br>
 The [Atlantis](https://research.csiro.au/atlantis/) end-to-end framework (Fulton et al. 2011, Audzijonyte et al. 2019) simulates
 population dynamics, oceanography, fishing, and ecological interactions in a three dimensional
 simulation. To explore climate change scenarios within Future Seas 3, we integrate projections

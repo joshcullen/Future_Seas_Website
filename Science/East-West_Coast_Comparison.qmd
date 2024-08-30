@@ -3,9 +3,9 @@ title: "Comparing Adaptive Capacity"
 toc: false
 ---
 
-![](images/Fig_CompareEastWest.jpg){fig-align="center" width=75%}
+![](images/Fig_CompareEastWest.jpg){fig-align="center" width=100%}
 
-
+<br>
 The Future Seas team is working to develop and calculate metrics of adaptive capacity for
 communities involved in the groundfish industries on the U.S. East and West Coasts.
 Specifically, they aim to identify fishery participants that have demonstrated the flexibility to
