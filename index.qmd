@@ -17,20 +17,21 @@ toc: false
 </center>
 
 :::: {.grid}
+
 ::: {.card .g-col-4}
-<center><span style="font-size:1.5rem">{{< fa ship >}} **Fisheries**</span></center>
+<center><span style="font-size:1.5rem"><a href="fisheries.qmd" class="stretched-link">{{< fa ship >}}**Fisheries**</a></span></center>
 <br>
 We are focused on the swordfish, albacore tuna, and coastal pelagic fisheries off the U.S. west coast, each of which involves a unique set of ecological and socioeconomic concerns.
 :::
 
 ::: {.card .g-col-4}
-<center><span style="font-size:1.5rem">{{< fa chart-bar >}} **Science**</span></center>
+<center><span style="font-size:1.5rem"><a href="Science/index.qmd" class="stretched-link">{{< fa chart-bar >}}**Science**</a></span></center>
 <br>
 Dynamical, statistical, and conceptual models are being combined in a framework to project physical, ecological, and socioeconomic change and to evaluate uncertainty in the models.
 :::
 
 ::: {.card .g-col-4}
-<center><span style="font-size:1.5rem">{{< fa users >}} **Our Team**</span></center>
+<center><span style="font-size:1.5rem"><a href="Team/index.qmd" class="stretched-link">{{< fa users >}}**Our Team**</a></span></center>
 <br>
 We are climate scientists, oceanographers, ecologists, economists, and social scientists working closely with fishers and fishery managers.
 :::

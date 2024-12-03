@@ -4,13 +4,13 @@ project:
 
 website:
   title: "Future Seas"
-  site-url: https://future-seas.com
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**We Are Hiring** - [Postdoctoral Scholar Position in Fisheries Science and Management Strategy Evaluation](https://future-seas.com/wp-content/uploads/2024/07/FSIII_ad_mse_July2024.pdf){style='color:white'}"
-    type: danger
-    position: below-navbar
+  # site-url: https://future-seas.com
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**We Are Hiring** - [Postdoctoral Scholar Position in Fisheries Science and Management Strategy Evaluation](https://future-seas.com/wp-content/uploads/2024/07/FSIII_ad_mse_July2024.pdf){style='color:white'}"
+  #   type: danger
+  #   position: below-navbar
   navbar:
     logo: images/FutureSeas_logo_text.jpeg.webp
     left:

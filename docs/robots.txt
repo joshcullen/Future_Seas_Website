@@ -1,1 +1,1 @@
-Sitemap: https://future-seas.com/sitemap.xml
+Sitemap: https://joshcullen.github.io/Future_Seas_Website/sitemap.xml

@@ -1,0 +1,30 @@
+---
+title: "Lost opportunity: Quantifying the dynamic economic impact of time-area fishery closures"
+date: 2020-03-01
+categories: 
+  - Climate and Fisheries
+  - Species Distribution Modeling and Dynamic Ocean Management
+pub-info:
+  reference: >-
+    Smith, J. A., Tommasi, D., Sweeney, J., Brodie, S., Welch, H., Hazen, E. L., Muhling. B., Stohs, S. M., & Jacox, M. G. (2020). Lost opportunity: Quantifying the dynamic economic impact of time-area fishery closures. <em>Journal of Applied Ecology</em>, 57(3), 502-513. doi: <a href="https://doi.org/10.1111/1365-2664.13565">https://doi.org/10.1111/1365-2664.13565</a> 
+  links:
+    - name: PDF
+      url: Smith_JAE_2020.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Online
+      url: https://doi.org/10.1111/1365-2664.13565
+      icon: fa-solid fa-scroll
+---
+
+## Abstract
+
+1. Time-area closures are an important tool for reducing fisheries bycatch, but their effectiveness and economic impact can be influenced by the changes in species distributions. For fisheries targeting highly mobile species, the economic impact of a closure may by highly dynamic, depending on the current suitability of the closed area for the target species.
+
+2. We present an analysis to quantify the fine-scale economic impact of time-area closures: the ‘lost economic opportunity’, which is the percentage of total potential profit for an entire fishing season that occurs within and during a time-area closure. Our analysis integrates a spatially explicit and environment-informed catch model with a utility model that quantifies fishing revenues and costs, and thus incorporates a dynamic target species distribution in the estimated economic impact of a closure. We demonstrate this approach by evaluating the economic impact of the Loggerhead Conservation Area (LCA) on California's drift gillnet swordfish *Xiphias gladius* fishery.
+
+3. The lost economic opportunity due to the LCA time-area closure ranged from 0% to 6% per season, with variation due to port location and trip duration, as well as inter-annual changes in swordfish distribution. This increased by 40%–90% when a seasonally varying swordfish price was considered.
+
+4. There was a clear signal in economic impact associated with a shift from warm to cool conditions in the California Current following the 1998 El Niño, with increased lost economic opportunity from 1999. This signal was due to higher swordfish catch inside the LCA during the cool phase, associated with increased water column mixing, and due to higher catches outside the LCA in the warmer phase, associated with increased sea-surface temperature.
+
+5. *Synthesis and applications*. We found small economic impact from a fishery closure, but with meaningful inter-annual variation due to environmental change and the dynamic distribution of a target species. Our approach could be used to help determine the timing of closures, simulate impacts of proposed closures and, more generally, assess some economic consequences of climate-induced shifts in species’ ranges.

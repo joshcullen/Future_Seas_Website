@@ -1,0 +1,21 @@
+---
+title: "The potential impact of a shifting Pacific sardine distribution on U.S. West Coast landings"
+date: 2021-02-07
+categories: 
+  - Climate and Fisheries
+pub-info:
+  reference: >-
+    Smith, J. A., Muhling, B., Sweeney, J., Tommasi, D., Pozo Buil, M., Fiechter, J., & Jacox, M. G. (2021). The potential impact of a shifting Pacific sardine distribution on U.S. West Coast landings. <em>Fisheries Oceanography</em>, 30, 437–454. doi: <a href="https://doi.org/10.1111/fog.12529">https://doi.org/10.1111/fog.12529</a> 
+  links:
+    - name: PDF
+      url: Smith_FishOce_2021.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Online
+      url: https://doi.org/10.1111/fog.12529
+      icon: fa-solid fa-scroll
+---
+
+## Abstract
+
+Many fish species are shifting spatial distributions in response to climate change, but projecting these shifts and measuring their impact at fine scales are challenging. We present a simulation that projects change in fishery landings due to spatial distribution shifts, by combining regional ocean and biogeochemical models (forced by three earth system models, ESMs: GFDL-ESM2M, HadGEM2-ES, IPSL-CM5A-MR), correlative models for species distribution and port-level landings, and a simulation framework which provides realistic values for species abundance and fishery conditions using an historical “reference period”. We demonstrate this approach for the northern subpopulation of Pacific sardine, an iconic commercial species for the U.S. West Coast. We found a northward shift in sardine landings (based on the northern subpopulation's habitat suitability), with projected declines at southern ports (20%–50% decline by 2080) and an increase (up to 50%) or no change at northern ports, and this was consistent across the three ESMs. Total sardine landings were more uncertain, with HadGEM2 indicating a 20% decline from 2000 to 15 levels by 2070 (a rate of 170 mt/y), IPSL a 10% increase (115 mt/y), and GFDL an 15% increase by the year ~2050 followed by a sharp decrease. The ESMs also differed in their projected change to the timing of the fishing season and frequency of fishery closures. Our simulation also identified key constraints on future landings that can be targeted by more tactical assessment; these included the seasonality of quota allocation and the abundance of other species in the catch portfolio.

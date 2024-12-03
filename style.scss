@@ -75,6 +75,11 @@
   opacity: 0.5;
 }
 
+// add drop-shadow on card hover
+.card:hover {
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.3);
+}
+
 // hero header for top of page
 .hero {
   background-image: url(https://images.unsplash.com/photo-1516031636401-f728d11b5014?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);

@@ -1,0 +1,21 @@
+---
+title: "Population projections of Pacific sardine driven by ocean warming and changing food availability in the California Current"
+date: 2022-10-28
+categories: 
+  - Climate and Fisheries
+pub-info:
+  reference: >-
+    Koenigstein, S., Jacox, M. G., Pozo Buil, M., Fiechter, J., Muhling, B. A., Brodie, S., Kuriyama, P. T., Auth, T. D., Hazen, E. L., Bograd, S. J., & Tommasi, D. (2022). Population projections of Pacific sardine driven by ocean warming and changing food availability in the California Current. <em>ICES Journal of Marine Science</em>, 79(9), 2510–2523. doi: <a href="https://doi.org/10.1093/icesjms/fsac191">https://doi.org/10.1093/icesjms/fsac191</a> 
+  links:
+    - name: PDF
+      url: Koenigstein_IJMS_2022.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Online
+      url: https://doi.org/10.1093/icesjms/fsac191
+      icon: fa-solid fa-scroll
+---
+
+## Abstract
+
+Small pelagic fish are important marine ecosystem components and highly variable fisheries resources. In the California Current upwelling system, Pacific sardine (*Sardinops sagax*) has supported important fisheries in the past, but contrary to expectations, remains at low biomass despite recent warm ocean conditions. We developed a data-driven, process-based population model that reproduces fluctuations of the US Pacific sardine population based on ocean temperature, early life stage and adult food, and upwelling strength. The lack of sardine recovery after 2014 can be explained by reduced food availability. Ensemble projections for the 21st century driven by downscaled ocean-biogeochemical simulations under three Earth system models (ESMs) show a likely recovery to early 2000s sardine abundance and catch by mid-century, due to increased recruitment. Ecological process uncertainty (ensemble configuration range) is of the same magnitude as uncertainty among ESM projections, and uncertainty related to the thermal optimum of early life stages dominates after 2070. Even for a fish species presumably favoured by warmer conditions, future climate projections entail risks of stock declines in food-limited years and when passing unknown thermal optima. Quantification of combined environmental driver impacts and sources of uncertainty to projections under novel conditions open new pathways for environment-responsive fisheries management strategies.

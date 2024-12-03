@@ -1,0 +1,22 @@
+---
+title: "Comparing Dynamic and Static Time-Area Closures for Bycatch Mitigation: A Management Strategy Evaluation of a Swordfish Fishery"
+date: 2021-03-18
+categories: 
+  - Climate and Fisheries
+  - Species Distribution Modeling and Dynamic Ocean Management
+pub-info:
+  reference: >-
+    Smith, J. A., Tommasi, D., Welch, H., Hazen, E. L., Sweeney, J., Brodie, S., Muhling. B., Stohs, S. M., & Jacox, M. G. (2021). Comparing Dynamic and Static Time-Area Closures for Bycatch Mitigation: A Management Strategy Evaluation of a Swordfish Fishery. <em>Frontiers in Marine Science</em>, 8, 630607. doi: <a href="https://doi.org/10.3389/fmars.2021.630607">https://doi.org/10.3389/fmars.2021.630607</a> 
+  links:
+    - name: PDF
+      url: Smith_FrontMarSci_2021.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Online
+      url: https://doi.org/10.3389/fmars.2021.630607
+      icon: fa-solid fa-scroll
+---
+
+## Abstract
+
+Time-area closures are a valuable tool for mitigating fisheries bycatch. There is increasing recognition that dynamic closures, which have boundaries that vary across space and time, can be more effective than static closures at protecting mobile species in dynamic environments. We created a management strategy evaluation to compare static and dynamic closures in a simulated fishery based on the California drift gillnet swordfish fishery, with closures aimed at reducing bycatch of leatherback turtles. We tested eight operating models that varied swordfish and leatherback distributions, and within each evaluated the performance of three static and five dynamic closure strategies. We repeated this under 20 and 50% simulated observer coverage to alter the data available for closure creation. We found that static closures can be effective for reducing bycatch of species with more geographically associated distributions, but to avoid redistributing bycatch the static areas closed should be based on potential (not just observed) bycatch. Only dynamic closures were effective at reducing bycatch for more dynamic leatherback distributions, and they generally reduced bycatch risk more than they reduced target catch. Dynamic closures were less likely to redistribute fishing into rarely fished areas, by leaving open pockets of lower risk habitat, but these closures were often fragmented which would create practical challenges for fishers and managers and require a mobile fleet. Given our simulation’s catch rates, 20% observer coverage was sufficient to create useful closures and increasing coverage to 50% added only minor improvement in closure performance. Even strict static or dynamic closures reduced leatherback bycatch by only 30–50% per season, because the simulated leatherback distributions were broad and open areas contained considerable bycatch risk. Perfect knowledge of the leatherback distribution provided an additional 5–15% bycatch reduction over a dynamic closure with realistic predictive accuracy. This moderate level of bycatch reduction highlights the limitations of redistributing fishing effort to reduce bycatch of broadly distributed and rarely encountered species, and indicates that, for these species, spatial management may work best when used with other bycatch mitigation approaches. We recommend future research explores methods for considering model uncertainty in the spatial and temporal resolution of dynamic closures.
